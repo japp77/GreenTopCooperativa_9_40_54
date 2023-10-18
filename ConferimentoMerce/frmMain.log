@@ -1,0 +1,3 @@
+Riga 591: la classe MSComctlLib.ProgressBar del controllo ProgressBar2 non era una classe di controllo caricata.
+Riga 3343: la classe MSComctlLib.ProgressBar del controllo ProgressBar1 non era una classe di controllo caricata.
+Riga 3468: la classe MSComctlLib.StatusBar del controllo stbStatusbar non era una classe di controllo caricata.
